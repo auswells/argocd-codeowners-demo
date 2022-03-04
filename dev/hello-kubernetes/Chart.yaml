@@ -1,0 +1,6 @@
+name: hello-kubernetes
+version: 1.0.0
+dependencies:
+  - name: hello-kubernetes
+    repository: https://s3.amazonaws.com/actian-dc2-dev-awells-helm-charts-us-east-1
+    version: 1.0.0
