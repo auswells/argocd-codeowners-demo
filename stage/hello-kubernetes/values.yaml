@@ -1,2 +1,3 @@
 hello-kubernetes:
-  replicaCount: 1
+  deployment:
+    replicaCount: 1
