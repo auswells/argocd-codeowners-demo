@@ -1,3 +1,5 @@
+CODEOWNERS @auswells
+
 /prod/ @auswells
 /stage/ @auswells
 /test/ @auswells-actian
